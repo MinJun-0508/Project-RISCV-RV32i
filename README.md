@@ -10,7 +10,7 @@ ISA의 구조와 동작 원리를 이해하는 것을 목표로 합니다.
 
 ## ⚙️ 개발 환경
 - **언어:** SystemVerilog  
-- **시뮬레이터:** Vivado  
+- **개발 도구:** Vivado, Visual Studio Code
 - **CPU 아키텍처:** RV32I (Based on RISC-V)  
 - **형태:** Single Cycle
 
@@ -26,6 +26,9 @@ ISA의 구조와 동작 원리를 이해하는 것을 목표로 합니다.
 | **ALU** | 산술 및 논리 연산 수행 |
 | **Immediate Extend** | 명령어의 즉시값 비트 확장 |
 | **Program Counter (PC)** | 다음 실행 명령어 주소 결정 |
+
+### 블록 다이어그램
+<img width="1001" height="810" alt="그림1" src="https://github.com/user-attachments/assets/cb5e994e-3a86-43d2-bd12-b87cf4607f36" />
 
 ---
 
