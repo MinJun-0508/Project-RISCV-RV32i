@@ -28,7 +28,7 @@ ISA의 구조와 동작 원리를 이해하는 것을 목표로 합니다.
 | **Program Counter (PC)** | 다음 실행 명령어 주소 결정 |
 
 ### 블록 다이어그램
-<img width="1001" height="810" alt="그림1" src="https://github.com/user-attachments/assets/cb5e994e-3a86-43d2-bd12-b87cf4607f36" />
+<img width="1736" height="1442" alt="rv32i drawio" src="https://github.com/user-attachments/assets/5df3154c-f3c4-4e62-abb8-101672ca3be7" />
 
 ---
 
